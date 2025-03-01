@@ -1,0 +1,10 @@
+theme = dark:catppuccin-macchiato,light:catppuccin-macchiato
+font-family = "MonoLisa"
+font-size = 20
+
+gtk-titlebar = false
+macos-titlebar-style = tabs
+window-padding-balance = true
+window-save-state = always
+
+keybind = cmd+shift+space=toggle_quick_terminal
