@@ -96,4 +96,3 @@ ramp() {
       ;;
   esac
 }
-. "/Users/scott/.deno/env"

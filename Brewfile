@@ -3,6 +3,8 @@ tap "jandedobbeleer/oh-my-posh"
 tap "stripe/stripe-cli"
 # Dependency Manager for PHP
 brew "composer"
+# Secure runtime for JavaScript and TypeScript
+brew "deno"
 # GitHub command-line tool
 brew "gh"
 # Ambitious Vim-fork focused on extensibility and agility
