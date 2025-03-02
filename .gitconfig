@@ -1,0 +1,14 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+	name = Scott McCracken
+	email = 86990+smccracken@users.noreply.github.com
+[init]
+	defaultBranch = main
+
+[push]
+	autoSetupRemote = true
+	default = current
+
+[alias]
+	undo = reset --soft HEAD^
