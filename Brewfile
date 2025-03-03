@@ -20,8 +20,6 @@ brew "ripgrep"
 brew "stow"
 # Terminal multiplexer
 brew "tmux"
-# Plugin manager for tmux
-brew "tpm"
 # Incredibly fast JavaScript runtime, bundler, transpiler and package manager - all in one.
 brew "oven-sh/bun/bun"
 # Terminal emulator that uses platform-native UI and GPU acceleration
